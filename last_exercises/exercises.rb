@@ -168,7 +168,7 @@ p arrrr.flatten
 #17. What will the following program output? 
 
 # initially it hought it was not the same
-# it actually is the same because its just different syntax
+# it actually is the same because its just different syntax. some have old way, some have newer way
 # order of key is not important only in arrays
 
 hash1 = {shoes: "nike", "hat" => "adidas", :hoodie => true}
